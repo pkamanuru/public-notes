@@ -1,3 +1,8 @@
+### Gold And XP Value for Lane Creeps
+1. Melee Creep - 37 Gold, 57 Experience
+2. Ranged Experience - 48 Gold, 69 Experience
+3. Siege Creeps - 66 Gold, 88 Avg Experience ( every 5 mins )
+
 ### Last Hitting Under Towers
 1. Siege Creeps   
   * Four hits on siege from crips from towers leave it on 35 Heath Health
@@ -27,3 +32,9 @@
 
 ### Practice Last Hitting
 1. Easiest - Demo hero Mode
+2. Custom Lobby against Bots
+3. Last Hitting Trainer Mode
+
+### How to Fake Attacks ?
+1. Use the Stop Key
+2. Use this to bait the enemy to take the hit early and get the last hit
