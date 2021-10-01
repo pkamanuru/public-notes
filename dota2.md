@@ -38,3 +38,8 @@
 ### How to Fake Attacks ?
 1. Use the Stop Key
 2. Use this to bait the enemy to take the hit early and get the last hit
+
+### Dragging Lane Creeps Towards you to easy Last Hit
+1. Send an Attack Command Hero to cause the enemy heroes to attack
+2. Move your hero to go in the direction that you want to go
+3. They move towards you until find something in range to hit them
