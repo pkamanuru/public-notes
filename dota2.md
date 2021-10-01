@@ -24,3 +24,6 @@
 4. Mantle of Intelligence
 5. Faerie Fire
 6. Update Stats instead of Spells/Abilities
+
+### Practice Last Hitting
+1. Easiest - Demo hero Mode
