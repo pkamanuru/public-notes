@@ -23,4 +23,11 @@
 2. Easy  Camp Pulling - 15, 45
 3. Radiant Offlane Hard Camp Pull
    * Pull Corridor Big
+   * Pull When the Creeps are at your Offlane L1 Tower
+### Dire Pulling
+1. Hard Camp Pull - 55 or 25 (Pull Corridor is huge)
+      * Ask Carry to cut the trees before executing
+2. Easy  Camp Pulling - 15, 45
+3. Dire Offlane Hard Camp Pull
+   * Pull Corridor Big
    * Pull When the Creeps are at your Offlane L1 Tower 
