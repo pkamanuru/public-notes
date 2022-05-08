@@ -36,9 +36,9 @@
 13. One stacked small camp can almost deny 2 and half creep waves
 14. The small camp is your friend, always stack and pull it ( you can deny waves and xp for your enemies)
 15. Another Chaotic Setup
-  i. Single Pull Small Camp (Hit Neutral Creeps to time your current wave to meet the next wave)
-  ii. Have huge creep wave fighting against enemy wave 
-  iii. This gives enough room for your to pull the hard camp on to your next wave
-  iv. You will also have a small camp for the next wave too
-  v. This will make it very chaotic and give a lot of free creeps to your carry
-  vi. Use this in losing lanes to create chaos and freak out the balance
+    i. Single Pull Small Camp (Hit Neutral Creeps to time your current wave to meet the next wave)
+    ii. Have huge creep wave fighting against enemy wave 
+    iii. This gives enough room for your to pull the hard camp on to your next wave
+    iv. You will also have a small camp for the next wave too
+    v. This will make it very chaotic and give a lot of free creeps to your carry
+    vi. Use this in losing lanes to create chaos and freak out the balance
