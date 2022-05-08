@@ -1,4 +1,4 @@
-### Radiant Timings for Double Stacks
+### Radiant Timings for Stacking
 1. Radiant Triangle Stacks
     * Hard Camp - 53
     * Ancient - 55
