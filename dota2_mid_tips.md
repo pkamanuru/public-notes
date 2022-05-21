@@ -89,4 +89,15 @@
   * High Range Hero
   * High Harass lane as you are melee (Use your spells as much as possible)
   * Ideally hit both Enemy Hero and Range Creep
- 
+ ## Rune Control
+ 1. How important it is ?
+ 2. Do you need help ?
+  * 4 Min Runes can be contested with help of your support
+3. 6,8,10,12,14 Minutes are the most important runes
+4. Setup the lanes so it allows the supports to get those runes
+5. Haste or Invis Rune - Definite Gank on side lanes
+6. DD Rune - Mobile then side lanes
+7. DD with TA - Use for Farming
+8. Regen Rune - Very good for ganking on spell intensive heroes ( Storm, Void Spirit)
+9. Illusion Rune - Can be used to stack two camps and dodge some spells
+
