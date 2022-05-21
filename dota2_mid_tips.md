@@ -23,6 +23,40 @@
    * Ruining Lane Control
    * Stacking your own small camp
 
+## Starting Items
+1. Some matches Rush Bottle
+2. Some matches Health Regen (Trading More)
+3. Some matches Clarity (Push all and Farm)
+4. QOP vs Void Spirit
+  * Tango, Feirie Fire, Branch, Branch, Circlet
+  * Tango, Feirie Fire, Branch, Branch, Circlet, Quelling Blade
+  * Both are Spell Heavy Heroes
+  * Both want Bottle Right Away ( 2 Min Rune )
+  * If bottle is focus Don't upgrade Circlet to Null Talisman
+  * You don't want buy anymore regen and bottle the 2 min rune
+  * Circle always helps you upgrade
+      * Null Talisman
+      * Bracer
+      * Wraith Band
+5. If you don't want  Null Talisman, Bracer or a Wraith Band
+   * Tango, Feirie Fire, 3 Branches, Ward (Bat Rider)
+   * Quelling Blade, Branch, Tango, Feirie Fire, Stick
+6. 
+7. Bat Rider
+  * Feirie, 2 Branches, Tango 
+  * Heros who need push out waves, clear the creeps, and are rune dependent, Don't buy circlets
+8. Against Spammers (Bat Rider, Storm Spirit, Bristle Back)
+  * Buy a Stick
+  * Then, finish the circlet to null talisman
+  * before going to a bottle due to regen from the stick can be sufficient
+9. Some instance it's good to buy a quelling blade on a ranged hero
+  * Visage vs Invoker
+  * Exort invoker - At Level 3 Invoker has a high damage
+  * Go for Blightstone + Quelling blade on Visage for high damage
+  * Only Visage or Bat Rider Ranged heroes go for a quelling blade 
+10. As a rule of thumb always buy a Quelling blade on a Melee hero
+
+
 ## Laning Phase
 
 2. Try getting the lane on your high ground as much as possible
