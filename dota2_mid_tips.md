@@ -79,8 +79,12 @@
    * Backpack your stat items for max efficiency
 
 ## Wave Manipulation in Mid Lane
-1. When to push the wave ? 
+1. When to push the wave ?
+  * Water Rune
+  * Gank
+  * Bounty Rune
 2. When to Keep it stable ?
+  * More Harass you have, more stable it should be
 3. When to have the Lane Swinging ?
   * High Range Hero
   * High Harass lane as you are melee (Use your spells as much as possible)
