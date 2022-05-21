@@ -58,9 +58,31 @@
 
 
 ## Laning Phase
-
+1. Stacking Small Camps
+  * Any Hero that has a long range nuke
+    * Lina
+    * Puck
+    * Void Spirit
+    * Vengeful Sprit
+    * Bat Rider
 2. Try getting the lane on your high ground as much as possible
-3. After 5 Minutes
+3. Using Spells to Last Hit your own ranged creep and denying
+4. After 5 Minutes
     * Night
     * Bounty Runes 
-4.  Always get boots before you start rotating
+5.  Always get boots before you start rotating
+6.  Whenever you have a Roaming pos4, you could try to keep your enemy on 60-70% HP
+7.  Dealing with Bad Matchups
+   * Small Camp is your best friend
+   * Even enemy Small Camp
+8. When getting a Rune for Regen Efficiency
+   * Backpack your stat items for max efficiency
+
+## Wave Manipulation in Mid Lane
+1. When to push the wave ? 
+2. When to Keep it stable ?
+3. When to have the Lane Swinging ?
+  * High Range Hero
+  * High Harass lane as you are melee (Use your spells as much as possible)
+  * Ideally hit both Enemy Hero and Range Creep
+ 
